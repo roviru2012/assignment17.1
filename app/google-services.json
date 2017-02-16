@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "870683442339",
+    "firebase_url": "https://nkdroidfirebasepush-3bcac.firebaseio.com",
+    "project_id": "nkdroidfirebasepush-3bcac",
+    "storage_bucket": "nkdroidfirebasepush-3bcac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870683442339:android:eca12ed3aba7c5be",
+        "android_client_info": {
+          "package_name": "com.nkdroid.firebase.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870683442339-e1qukdt4fvbtgotdq1egqnnpl2v05f1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzHYHIKrkWbThEvoijerct7w8MiQutAkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
